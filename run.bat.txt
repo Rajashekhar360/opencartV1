@@ -1,0 +1,2 @@
+cd C:\Automationtesting-src\NewJavaproject\opencartV1
+mvn clean test
